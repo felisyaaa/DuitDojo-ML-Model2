@@ -1,0 +1,42 @@
+
+{
+  "raw_json": {
+    "menu": [
+      {
+        "cnt": "1",
+        "nm": "Woman",
+        "price": "0"
+      },
+      {
+        "cnt": "2",
+        "nm": "Ham Cheese",
+        "price": "74,000"
+      },
+      {
+        "cnt": "1",
+        "nm": "Ice Java Tea",
+        "price": "16,000"
+      },
+      {
+        "cnt": "1",
+        "nm": "Mineral Water",
+        "price": "13,000"
+      },
+      {
+        "cnt": "1",
+        "nm": "Black & White",
+        "price": "72,000"
+      }
+    ],
+    "sub_total": {
+      "subtotal_price": "175,000"
+    },
+    "total": {
+      "cashprice": "",
+      "changeprice": "",
+      "total_price": "175,000"
+    }
+  },
+  "success": true
+
+}
